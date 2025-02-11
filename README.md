@@ -2,7 +2,7 @@
 
 The code was made following the instructions and here's the explanation for each one of the features:
 
-Navigation Bar: A simple menu with links to Home, About, and Contact sections, arranged using an unordered list (<ul>).
+Navigation Bar: A simple menu with links to Home, About, and Contact sections, arranged using an unordered list.
 
 Images: Features two placeholder images; the second image has a rounded border for a more polished look.
 
